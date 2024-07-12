@@ -6,7 +6,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * Quick summary
 * Version
-* [Learn Markdown](https://github.com/bikeshy/ecomAdmin.git)
+* [Learn Markdown]([https://github.com/bikeshy/ecomAdmin.git](https://github.com/bikeshy/https-github.com-bikeshy-ecomAdmin.git))
 
 ### How do I get set up? ###
 
